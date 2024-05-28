@@ -16,5 +16,5 @@ public class Test {
         // Printing the read line
         System.out.println(name)
     }
-}
+
 }
